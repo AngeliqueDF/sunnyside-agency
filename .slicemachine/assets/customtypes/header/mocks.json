@@ -1,0 +1,52 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "header",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "header_link": [
+      {
+        "link_1": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
+        },
+        "link_1_text": [
+          {
+            "type": "paragraph",
+            "text": "Reprehenderit incididunt voluptate magna culpa dolor deserunt excepteur aliquip occaecat velit cupidatat. Laboris ad do consectetur do et reprehenderit non id id velit elit exercitation cillum minim.",
+            "spans": []
+          }
+        ],
+        "link_2": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        },
+        "link_2_text": [
+          {
+            "type": "paragraph",
+            "text": "Consectetur nostrud nostrud officia consectetur fugiat non sint. Dolore exercitation reprehenderit sunt. Ipsum proident magna proident consectetur ipsum elit aliqua elit cillum in ut et.",
+            "spans": []
+          }
+        ],
+        "link_3": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
+        },
+        "link_3_text": [
+          {
+            "type": "paragraph",
+            "text": "Enim quis duis anim consequat do irure ex. Est veniam aute anim nulla ipsum reprehenderit incididunt nisi irure tempor nisi non et.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}
